@@ -1,0 +1,18 @@
+{
+    "sourceFile": ".gitignore",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1739752219791,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1739752219791,
+            "name": "Commit-0",
+            "content": "# dependencies\n/node_modules\n/.pnp\n.pnp.js\n\n# testing\n/coverage\n\n# production\n/build\n/dist\n\n# misc\n.DS_Store\n.env\n.env.local\n.env.development.local\n.env.test.local\n.env.production.local\nserver/.env\n\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\n"
+        }
+    ]
+}
